@@ -9,12 +9,13 @@ class AppStyles {
     color: AppColors.red1,
   );
 
-    static final TextStyle t2 = TextStyle(
+  static final TextStyle t2 = TextStyle(
     fontSize: 18.sp,
     fontWeight: FontWeight.bold,
     color: AppColors.black1,
   );
-    static final TextStyle logintext = TextStyle(
+  
+  static final TextStyle logintext = TextStyle(
     fontSize: 15.sp,
     fontWeight: FontWeight.w500,
     color: AppColors.black1,
